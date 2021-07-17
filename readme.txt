@@ -1,6 +1,6 @@
 <html>
     <head>
-        <title>Team details</title>
+        <title>Life is bleeeek</title>
     </head>
     <body>
         <h1>About Us: Team182</h1>
