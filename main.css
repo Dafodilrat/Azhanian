@@ -33,7 +33,8 @@ body {
     position: relative;
     width: 50vh;
     height: 50vh;
-    top: 0px;
+    top: 00px;
+    left: 150px;
     background: linear-gradient(#304d63, #b2e7e8);
     /* background: linear-gradient(#33ccff,#ff0066);*/
     border-radius: 50%;
@@ -181,7 +182,7 @@ body {
 .base-timer {
     position: relative;
     width: 320px;
-    right: 347px;
+    right: 195px;
     height: 320px;
 }
 
@@ -192,7 +193,7 @@ body {
 .base-timer__circle {
     fill: none;
     stroke: none;
-    right: 600;
+    right: 900;
 }
 
 .base-timer__path-elapsed {
